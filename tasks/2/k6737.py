@@ -10,4 +10,3 @@ for x in [0, 1]:
                 print(x,y,z,w,int(f),sep=" ")
 
 # yzxw
-
